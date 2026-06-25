@@ -1,0 +1,101 @@
+[
+  { 
+    "id": 1, 
+    "title": "Personal Finance Basics", 
+    "icon": "💰", 
+    "color": "#FFF3E0", 
+    "rating": "4.8",
+    "lessons": [
+      { "id": 1, "title": "Introduction to Personal Finance", "duration": "10 min", "videoId": "MLNf4cy-S8k" },
+      { "id": 2, "title": "Budgeting Basics", "duration": "12 min", "videoId": "MLNf4cy-S8k" },
+      { "id": 3, "title": "Saving Strategies", "duration": "15 min", "videoId": "MLNf4cy-S8k" },
+      { "id": 4, "title": "Emergency Fund Planning", "duration": "8 min", "videoId": "MLNf4cy-S8k" },
+      { "id": 5, "title": "Debt Management", "duration": "14 min", "videoId": "MLNf4cy-S8k" },
+      { "id": 6, "title": "Financial Goals Setting", "duration": "11 min", "videoId": "MLNf4cy-S8k" }
+    ]
+  },
+  { 
+    "id": 2, 
+    "title": "SIP Investing Mastery", 
+    "icon": "📈", 
+    "color": "#F3E5F5", 
+    "rating": "4.9",
+    "lessons": [
+      { "id": 1, "title": "What is SIP?", "duration": "10 min", "videoId": "X_nBiKi3SZw" },
+      { "id": 2, "title": "Benefits of SIP", "duration": "12 min", "videoId": "X_nBiKi3SZw" },
+      { "id": 3, "title": "How to Start SIP", "duration": "15 min", "videoId": "X_nBiKi3SZw" },
+      { "id": 4, "title": "SIP vs Lump Sum", "duration": "13 min", "videoId": "X_nBiKi3SZw" },
+      { "id": 5, "title": "SIP Calculator", "duration": "9 min", "videoId": "X_nBiKi3SZw" },
+      { "id": 6, "title": "Best SIP Funds", "duration": "14 min", "videoId": "X_nBiKi3SZw" },
+      { "id": 7, "title": "SIP Mistakes to Avoid", "duration": "11 min", "videoId": "X_nBiKi3SZw" },
+      { "id": 8, "title": "SIP Success Stories", "duration": "10 min", "videoId": "X_nBiKi3SZw" }
+    ]
+  },
+  { 
+    "id": 3, 
+    "title": "Insurance Essentials", 
+    "icon": "🛡️", 
+    "color": "#E8F5E9", 
+    "rating": "4.7",
+    "lessons": [
+      { "id": 1, "title": "Why Insurance Matters", "duration": "10 min", "videoId": "hChPIerNfZ8" },
+      { "id": 2, "title": "Types of Insurance", "duration": "12 min", "videoId": "hChPIerNfZ8" },
+      { "id": 3, "title": "Life Insurance Guide", "duration": "15 min", "videoId": "hChPIerNfZ8" },
+      { "id": 4, "title": "Health Insurance Basics", "duration": "13 min", "videoId": "hChPIerNfZ8" },
+      { "id": 5, "title": "Choosing Right Insurance", "duration": "11 min", "videoId": "hChPIerNfZ8" }
+    ]
+  },
+  { 
+    "id": 4, 
+    "title": "Stock Market Basics", 
+    "icon": "📊", 
+    "color": "#E3F2FD", 
+    "rating": "4.8",
+    "lessons": [
+      { "id": 1, "title": "Introduction to Stock Market", "duration": "12 min", "videoId": "0_nW2Xcxc4w" },
+      { "id": 2, "title": "How Stocks Work", "duration": "14 min", "videoId": "0_nW2Xcxc4w" },
+      { "id": 3, "title": "Reading Stock Charts", "duration": "16 min", "videoId": "0_nW2Xcxc4w" },
+      { "id": 4, "title": "Fundamental Analysis", "duration": "15 min", "videoId": "0_nW2Xcxc4w" },
+      { "id": 5, "title": "Technical Analysis", "duration": "13 min", "videoId": "0_nW2Xcxc4w" },
+      { "id": 6, "title": "Risk Management", "duration": "11 min", "videoId": "0_nW2Xcxc4w" },
+      { "id": 7, "title": "Building a Portfolio", "duration": "14 min", "videoId": "0_nW2Xcxc4w" },
+      { "id": 8, "title": "Common Mistakes", "duration": "10 min", "videoId": "0_nW2Xcxc4w" },
+      { "id": 9, "title": "Long Term Investing", "duration": "12 min", "videoId": "0_nW2Xcxc4w" },
+      { "id": 10, "title": "Getting Started", "duration": "9 min", "videoId": "0_nW2Xcxc4w" }
+    ]
+  },
+  { 
+    "id": 5, 
+    "title": "Tax Planning Guide", 
+    "icon": "📋", 
+    "color": "#FCE4EC", 
+    "rating": "4.6",
+    "lessons": [
+      { "id": 1, "title": "Understanding Tax Basics", "duration": "10 min", "videoId": "DArkt8J0W7s" },
+      { "id": 2, "title": "Income Tax Slabs", "duration": "12 min", "videoId": "DArkt8J0W7s" },
+      { "id": 3, "title": "Tax Saving Investments", "duration": "15 min", "videoId": "DArkt8J0W7s" },
+      { "id": 4, "title": "Section 80C Deductions", "duration": "13 min", "videoId": "DArkt8J0W7s" },
+      { "id": 5, "title": "HRA and Home Loan Benefits", "duration": "11 min", "videoId": "DArkt8J0W7s" },
+      { "id": 6, "title": "Filing ITR", "duration": "14 min", "videoId": "DArkt8J0W7s" },
+      { "id": 7, "title": "Tax Planning Tips", "duration": "9 min", "videoId": "DArkt8J0W7s" }
+    ]
+  },
+  { 
+    "id": 6, 
+    "title": "Mutual Funds Mastery", 
+    "icon": "💹", 
+    "color": "#F9FBE7", 
+    "rating": "4.9",
+    "lessons": [
+      { "id": 1, "title": "What are Mutual Funds?", "duration": "10 min", "videoId": "H6TctwEI2OY" },
+      { "id": 2, "title": "Types of Mutual Funds", "duration": "12 min", "videoId": "H6TctwEI2OY" },
+      { "id": 3, "title": "How to Invest", "duration": "15 min", "videoId": "H6TctwEI2OY" },
+      { "id": 4, "title": "NAV and Returns", "duration": "13 min", "videoId": "H6TctwEI2OY" },
+      { "id": 5, "title": "Risk vs Return", "duration": "11 min", "videoId": "H6TctwEI2OY" },
+      { "id": 6, "title": "Top Mutual Funds", "duration": "14 min", "videoId": "H6TctwEI2OY" },
+      { "id": 7, "title": "Exit Load and Taxation", "duration": "9 min", "videoId": "H6TctwEI2OY" },
+      { "id": 8, "title": "Portfolio Diversification", "duration": "12 min", "videoId": "H6TctwEI2OY" },
+      { "id": 9, "title": "Mutual Fund Mistakes", "duration": "10 min", "videoId": "H6TctwEI2OY" }
+    ]
+  }
+]

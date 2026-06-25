@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Personal Finance Cheat Sheet",
+    "size": "2.3 MB",
+    "type": "PDF",
+    "icon": "📄",
+    "color": "#FFF3E0",
+    "url": "https://raw.githubusercontent.com/abhijitkhare-business/EasyFinanceLearning/main/pdfs/personal-finance.pdf"
+  },
+  {
+    "id": 2,
+    "title": "SIP Calculator Worksheet",
+    "size": "1.8 MB",
+    "type": "PDF",
+    "icon": "📊",
+    "color": "#E8F5E9",
+    "url": "https://raw.githubusercontent.com/abhijitkhare-business/EasyFinanceLearning/main/pdfs/sip-calculator.pdf"
+  },
+  {
+    "id": 3,
+    "title": "Budget Planning Template",
+    "size": "3.1 MB",
+    "type": "PDF",
+    "icon": "📋",
+    "color": "#E3F2FD",
+    "url": "https://raw.githubusercontent.com/abhijitkhare-business/EasyFinanceLearning/main/pdfs/budget-planning.pdf"
+  },
+  {
+    "id": 4,
+    "title": "Tax Saving Guide 2024",
+    "size": "4.2 MB",
+    "type": "PDF",
+    "icon": "📑",
+    "color": "#FCE4EC",
+    "url": "https://raw.githubusercontent.com/abhijitkhare-business/EasyFinanceLearning/main/pdfs/tax-saving.pdf"
+  },
+  {
+    "id": 5,
+    "title": "Stock Market Glossary",
+    "size": "1.5 MB",
+    "type": "PDF",
+    "icon": "📚",
+    "color": "#F3E5F5",
+    "url": "https://raw.githubusercontent.com/abhijitkhare-business/EasyFinanceLearning/main/pdfs/stock-market.pdf"
+  },
+  {
+    "id": 6,
+    "title": "Insurance Comparison Sheet",
+    "size": "2.7 MB",
+    "type": "PDF",
+    "icon": "🛡️",
+    "color": "#F9FBE7",
+    "url": "https://raw.githubusercontent.com/abhijitkhare-business/EasyFinanceLearning/main/pdfs/insurance.pdf"
+  }
+]
